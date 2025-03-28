@@ -1,10 +1,13 @@
 # Python-Tkinter-GUI-Examples
-This repository contains examples of user interfaces created using the Tkinter module in Python. The interface examples utilize toolbox elements such as listbox and button.
+Contains user interface examples created using the Tkinter module in Python. The interface examples include ColorCircleDrawer, ContinuousMessageDisplay, LiveTextInserter, TextAndImageViewer and TextStreamer. 
+The interface examples utilize toolbox elements such as listbox and button.
 
-Python IDEs: PyCharm, Thonny
+Programming Language: Python
 
-Python Version: Python3
+IDE: PyCharm, Thonny
 
-Python Modules: To install the necessary Python modules on the Windows, you should review the Python documentation according to the selected IDE.
+Version: Python3
+
+Modules: To install the necessary Python modules for the examples, you should review the Python documentation according to the selected IDE.
 
 Operating System: Windows, Linux
